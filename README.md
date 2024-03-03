@@ -1,16 +1,13 @@
-### Hi there 👋
+## About me
 
-<!--
-**Crone720/crone720** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Artem (Tema), I am developing discord bots (disnake).
 
-Here are some ideas to get you started:
+### Software:
+[![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=fdda59)]()
+[![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java&logoColor=f8981d)]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### my social
+
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/sendhelloworld)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=23a9e9)](https://t.me/mytomioka)
+[![TiomiokaBot](https://img.shields.io/badge/-TomiokaBot-090909?style=for-the-badge&logo=Telegram&logoColor=23a9e9)](https://t.me/tomiokahelpbot)
