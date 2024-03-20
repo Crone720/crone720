@@ -4,7 +4,6 @@ My name is Artem (Tema), I am developing discord bots (disnake).
 
 ### Software:
 [![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=fdda59)]()
-[![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=f8981d)]()
 
 ### my social
 
