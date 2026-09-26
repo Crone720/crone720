@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://t.me/nodehost_bot?start=638">
+    <img src="https://raw.githubusercontent.com/Crone720/Discord-AutoVoice/refs/heads/main/readme-components/NodeHost%20-%20%20Github%20banner.png" width="100%" alt="NodeHost">
+  </a>
+</p>
+
 <div align="center">
 <img src="https://i.pinimg.com/originals/7c/88/67/7c88674efa0777c218608d67d3a9d322.jpg" width="1000" style="border-radius: 50%; border: 3px solid #f0f0f0; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
 
